@@ -262,7 +262,7 @@ class CreateQuizView extends React.Component { // eslint-disable-line react/pref
                                               <MenuItem value={'A'} primaryText="A" />
                                               <MenuItem value={'B'} primaryText="B" />
                                               <MenuItem value={'C'} primaryText="C" />
-                                              <MenuItem value={'C'} primaryText="D" />
+                                              <MenuItem value={'D'} primaryText="D" />
                                             </SelectField>
                                           <Paper zDepth={2}>
                                             <TextField hintText="Question" floatingLabelText="Question" defaultValue={this.state.choiceQ1}  onChange={(e) => this.changeValue(e, 'choiceQ1')}  multiLine={true} fullWidth={true} rows={2} rowsMax={5} underlineShow={false} />
@@ -295,7 +295,7 @@ class CreateQuizView extends React.Component { // eslint-disable-line react/pref
                                               <MenuItem value={'A'} primaryText="A" />
                                               <MenuItem value={'B'} primaryText="B" />
                                               <MenuItem value={'C'} primaryText="C" />
-                                              <MenuItem value={'C'} primaryText="D" />
+                                              <MenuItem value={'D'} primaryText="D" />
                                             </SelectField>
                                           <Paper zDepth={2}>
                                             <TextField hintText="Question" floatingLabelText="Question" defaultValue={this.state.choiceQ2}  onChange={(e) => this.changeValue(e, 'choiceQ2')}  multiLine={true} fullWidth={true} rows={2} rowsMax={5}underlineShow={false} />
@@ -328,7 +328,7 @@ class CreateQuizView extends React.Component { // eslint-disable-line react/pref
                                               <MenuItem value={'A'} primaryText="A" />
                                               <MenuItem value={'B'} primaryText="B" />
                                               <MenuItem value={'C'} primaryText="C" />
-                                              <MenuItem value={'C'} primaryText="D" />
+                                              <MenuItem value={'D'} primaryText="D" />
                                             </SelectField>
                                           <Paper zDepth={2}>
                                             <TextField hintText="Question" floatingLabelText="Question" defaultValue={this.state.choiceQ3}  onChange={(e) => this.changeValue(e, 'choiceQ3')}  multiLine={true} fullWidth={true} rows={2} rowsMax={5}underlineShow={false} />
