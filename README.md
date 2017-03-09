@@ -21,7 +21,7 @@ Click the top left navi button and navigate to create Quiz / Manage Quiz
 
 [![create1.jpg](https://s25.postimg.org/q2v77atun/create1.jpg)](https://postimg.org/image/9rv3azhcr/)
 
-The view of Create Quiz. Teacher can type in tile and article to read first. Then click next to generate questions and pick solutions for choice problem. There are two types of problem, choice problem and essay problem. User can choice 0-3 choice problems and 0-1 essay problems.
+The view of Create Quiz. Teacher can type in title and article to read first. Then click next to generate questions and pick solutions for choice problem. There are two types of problem, choice problem and essay problem. User can choice 0-3 choice problems and 0-1 essay problems.
 
 [![create2.jpg](https://s25.postimg.org/u0igwpgnz/create2.jpg)](https://postimg.org/image/9t514ej6j/)
 
