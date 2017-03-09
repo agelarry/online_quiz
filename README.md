@@ -11,4 +11,4 @@ Student can take quizzes and view their grade.
 
 Following is a brief screenshot intruduction:
 
-![Screenshot](https://postimg.org/image/5ilrv2opn/)
+[![login.jpg](https://s25.postimg.org/cxfp16zz3/login.jpg)](https://postimg.org/image/i8ullwm1n/)
